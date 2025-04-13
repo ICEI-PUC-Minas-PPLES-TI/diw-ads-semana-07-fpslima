@@ -12,10 +12,10 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Felipe Souza Lima
+- Matricula: 895513
+- Proposta de projeto escolhida: Catalogo de Filmes
+- Breve descrição sobre seu projeto: Um catalogo filmes
 
 ## Print da versão responsiva com CSS puro
 

@@ -1,0 +1,43 @@
+.card-filme {
+    margin-bottom: 30px;
+    text-align: center;
+    transition: transform 0.3s;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-filme:hover {
+    transform: scale(1.03);
+  }
+  
+  .card-filme img {
+    height: 300px;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .card-filme p {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .detalhes-filme img {
+    width: 100%;
+    max-height: 500px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .detalhes-filme h2 {
+    margin-bottom: 10px;
+  }
+  
+  .detalhes-filme p {
+    font-size: 18px;
+    color: #444;
+  }
+  
