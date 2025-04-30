@@ -1,21 +1,21 @@
 const filmes = [
     {
       id: 1,
-      titulo: "Gente Grande",
-      imagem: "img/gente_grande.jpg",
-      descricao: "Um grupo de amigos se reúne depois de muitos anos para reviver a infância e lidar com a vida adulta."
+      titulo: "Todo Mundo Em Panico 3",
+      imagem: "img/todo_mundo_em_panico.jpg",
+      descricao: ""
     },
     {
       id: 2,
-      titulo: "Gente Grande",
-      imagem: "img/gente_grande.jpg",
-      descricao: "Um grupo de amigos se reúne depois de muitos anos para reviver a infância e lidar com a vida adulta."
+      titulo: "Trocando Os Pés",
+      imagem: "img/trocando_pes.jpg",
+      descricao: ""
     },
     {
       id: 3,
-      titulo: "Gente Grande",
-      imagem: "img/gente_grande.jpg",
-      descricao: "Um grupo de amigos se reúne depois de muitos anos para reviver a infância e lidar com a vida adulta."
+      titulo: "Debi e Loid 2",
+      imagem: "img/debi_loide.jpg",
+      descricao: ""
     },
     
   ];
